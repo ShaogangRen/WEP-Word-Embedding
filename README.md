@@ -1,10 +1,10 @@
 # WEP-Word-Embedding
-Word Embedding with Neural Probabilistic Prior
+Word Embedding with Neural Probabilistic Prior,  Ren et al., SDM 2024
 
 This is the code for the paper 'Word Embedding with Neural Probabilistic Prior', Ren et al., SDM 2024.
 
 
-## Run the Code
+## Run the code
 
 1. Install packages
 ```
