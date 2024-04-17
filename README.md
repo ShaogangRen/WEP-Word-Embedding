@@ -6,7 +6,7 @@ This is the code for the paper 'Word Embedding with Neural Probabilistic Prior',
 
 ## Run the Code
 
-1.
+1. Install packages
 ```
 pip3 install -r requirements.txt
 ```
@@ -41,5 +41,5 @@ nohup python3 WEPSem.py -embed ./embeddings/pretrained_embed  -semantic synonyms
 ```
 
 The package was developed based on the implementation of 'Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks', Vashishth et al., ACL'19.
-https://github.com/malllabiisc/WordGCN
+(https://github.com/malllabiisc/WordGCN)
 
