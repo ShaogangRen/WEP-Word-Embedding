@@ -24,7 +24,7 @@ python3  WEPSyn.py -name test_embeddings -alpha 1.0 -gpu 1 -dump -embed_dim 300 
 ```
 4. Run WEPSem; example command line: 
 ```
-nohup python3 WEPSem.py -embed ./embeddings/pretrained_embed  -semantic synonyms -embed_dim 300 -alpha 0.001  -name fine_tuned_embeddings -dump -gpu 5
+python3 WEPSem.py -embed ./embeddings/pretrained_embed  -semantic synonyms -embed_dim 300 -alpha 0.001  -name fine_tuned_embeddings -dump -gpu 5
 ```
 
 
