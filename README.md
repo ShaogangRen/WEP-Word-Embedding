@@ -2,7 +2,7 @@
 
 This is the code for the paper 'Word Embedding with Neural Probabilistic Prior', Ren et al., SDM 2024.
 
-Representation learning for sequences is still an important topic in information retrieval, vector representation-based databases, etc. It is an important tool when only a small training dataset is available. The proposed neural probabilistic prior can be extended to other token representation learning problems, e.g., protein sequences, molecule sequences, etc.  
+Representation learning for tokens in sequences is still an important topic in information retrieval, vector representation-based databases, etc. It is an important tool when only a small training dataset is available. The proposed neural probabilistic prior can be extended to other token representation learning problems, e.g., protein sequences, molecule sequences, etc.  
 
 ## Run the code
 
