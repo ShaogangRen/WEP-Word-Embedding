@@ -1,8 +1,8 @@
-# WEP-Word-Embedding
+# Representation learning for sequences with neural probabilistic prior (WEP-Word-Embedding)
 Word Embedding with Neural Probabilistic Prior,  Ren et al., SDM 2024
-
 This is the code for the paper 'Word Embedding with Neural Probabilistic Prior', Ren et al., SDM 2024.
 
+Representation learning for sequences is still an important topic in information retrieval, vector representation-based data base, etc. 
 
 ## Run the code
 
