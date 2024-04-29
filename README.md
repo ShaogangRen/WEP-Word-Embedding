@@ -1,4 +1,4 @@
-# Representation learning for sequences with neural probabilistic prior (WEP-Word-Embedding)
+# Representation learning for tokens in sequences with neural probabilistic prior (WEP-Word-Embedding)
 
 This is the code for the paper 'Word Embedding with Neural Probabilistic Prior', Ren et al., SDM 2024.
 
